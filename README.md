@@ -5,5 +5,15 @@ in my Advanced Placement Computer Science course in high school.
 Topics include:
 *Strings
 *Arrays
+  -2D arrays
+  -array lists
 *Scanning
+*Loops
+  -for loops
+  -while loops
+  -double nested for loops
+*Inheritance
+*Interfaces
+*IO Exceptions
+
 
